@@ -20,13 +20,13 @@ public class Factura implements Ifactura{
 
 	@Override
 	public float getTotal() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
 	@Override
 	public float getCantidadIva() {
-		// TODO Auto-generated method stub
+
 		return 0;
 	}
 	
